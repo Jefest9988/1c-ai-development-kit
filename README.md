@@ -320,14 +320,6 @@ MIT License - см. [LICENSE](LICENSE)
 - 📧 Email: arman.kudaibergenov.mail@gmail.com
 - 🐙 GitHub: [github.com/Jefest9988/1c-ai-development-kit](https://github.com/Jefest9988/1c-ai-development-kit)
 
-## 🗺️ Roadmap
-
-- [ ] Поддержка EDT (Eclipse Development Tools)
-- [ ] Интеграция с GitLab CI/CD
-- [ ] Генерация документации из кода
-- [ ] Поддержка других языков (English, etc.)
-- [ ] Web-интерфейс для управления MCP
-
 ---
 
 **Сделано с ❤️ для сообщества 1С разработчиков**
