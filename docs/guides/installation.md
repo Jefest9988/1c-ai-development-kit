@@ -162,9 +162,14 @@ python server.py
 
 **Получение доступа:**
 
-1. Свяжитесь с нами: [контакты будут добавлены]
-2. Получите API ключ и адрес сервера
-3. Добавьте серверы в `.cursor/mcp.json` (используйте шаблон из `templates/mcp.json`)
+1. Приобретите на [vibecoding1c.ru/mcp_server](https://vibecoding1c.ru/mcp_server) (7000₽)
+2. Получите Docker-контейнеры и инструкции по развертыванию
+3. Запустите контейнеры на своем сервере
+4. Добавьте серверы в `.cursor/mcp.json` (используйте шаблон из `templates/mcp.json`)
+
+**Автор MCP:** Олег Филиппов ([@comol_foa](https://t.me/comol_foa))  
+**Документация:** [vibecoding1c.ru](https://vibecoding1c.ru/)  
+**Сообщество:** [t.me/comol_it_does_matter](https://t.me/comol_it_does_matter)
 
 ### Проектные MCP-серверы
 

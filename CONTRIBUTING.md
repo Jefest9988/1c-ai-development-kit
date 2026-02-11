@@ -192,9 +192,9 @@ AI: [использует навык 1c-forms/scaffold]
 
 ## Контакты
 
-- 💬 Telegram: [ссылка будет добавлена]
-- 📧 Email: [будет добавлен]
-- 🌐 Сайт: [будет добавлен]
+- 💬 Telegram: [@Jefest9988](https://t.me/Jefest9988)
+- 📧 Email: arman.kudaibergenov.mail@gmail.com
+- 🐙 GitHub Issues: [github.com/yourusername/1c-ai-development-kit/issues](https://github.com/yourusername/1c-ai-development-kit/issues)
 
 ## Благодарности
 

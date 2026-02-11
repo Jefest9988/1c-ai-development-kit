@@ -138,6 +138,7 @@ python server.py
 
 ## Помощь
 
-- 💬 Telegram: [ссылка будет добавлена]
-- 📧 Email: [будет добавлен]
-- 🐛 Issues: https://gitea.yourdomain.com/yourname/1c-ai-development-kit/issues
+- 💬 Telegram: [@Jefest9988](https://t.me/Jefest9988)
+- 📧 Email: arman.kudaibergenov.mail@gmail.com
+- 🐛 Issues: https://github.com/yourusername/1c-ai-development-kit/issues
+- 🌐 Сообщество: [t.me/comol_it_does_matter](https://t.me/comol_it_does_matter) (вайбкодинг для 1С)
