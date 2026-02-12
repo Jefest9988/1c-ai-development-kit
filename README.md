@@ -277,7 +277,11 @@ MIT License - см. [LICENSE](LICENSE)
 Этот проект стал возможен благодаря:
 
 ### Инструменты и технологии
+
+- **[Vladimir Akimov](https://github.com/SteelMorgan)** за создание [mcp-bsl-lsp-bridge](https://github.com/SteelMorgan/mcp-bsl-lsp-bridge) — MCP-сервер для интеграции BSL Language Server с AI-агентами. Этот инструмент позволяет агентам использовать возможности BSL LS (диагностика, навигация, рефакторинг) без необходимости запускать отдельный сервер для каждого агента.
+
 - Разработчикам [BSL Language Server](https://github.com/1c-syntax/bsl-language-server) за отличный инструмент анализа BSL кода
+
 - Сообществу [1С](https://1c.ru/) за платформу и экосистему
 
 ### Сообщество и вдохновение

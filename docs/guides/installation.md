@@ -69,12 +69,14 @@ cp -r .cursor/commands/* /path/to/your-project/.cursor/commands/
 
 **Назначение:** Интеграция с BSL Language Server для анализа кода
 
+**Автор:** [Vladimir Akimov (SteelMorgan)](https://github.com/SteelMorgan)
+
 **Установка:**
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/bsl-lsp-bridge.git
-cd bsl-lsp-bridge
+git clone https://github.com/SteelMorgan/mcp-bsl-lsp-bridge.git
+cd mcp-bsl-lsp-bridge
 ```
 
 2. Установите зависимости:
