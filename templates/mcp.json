@@ -81,7 +81,7 @@
       ]
     },
     "edt-mcp": {
-      "comment": "FREE - EDT MCP Server (CodePilot1C plugin). Read modules, search code, find references, validate queries. Requires open project in EDT.",
+      "comment": "FREE - EDT-MCP by DitriX (github.com/DitriXNew/EDT-MCP). Read modules, search code, find references, validate queries. Requires open project in EDT.",
       "type": "http",
       "url": "http://YOUR_EDT_SERVER:8765/mcp"
     }

@@ -282,6 +282,8 @@ MIT License - см. [LICENSE](LICENSE)
   - [mcp-bsl-lsp-bridge](https://github.com/SteelMorgan/mcp-bsl-lsp-bridge) — MCP-сервер для интеграции BSL Language Server с AI-агентами. Позволяет агентам использовать возможности BSL LS (диагностика, навигация, рефакторинг) без необходимости запускать отдельный сервер для каждого агента.
   - [1c-ai-sandbox-client-server](https://github.com/SteelMorgan/1c-ai-sandbox-client-server) — изолированная песочница для AI-агентов, работающих с платформой 1С. Защищает от случайной потери данных: AI-агент работает в контейнере и не имеет доступа к хостовой системе.
 
+- **[Nikolay Shirokov](https://github.com/Nikolay-Shirokov)** за [cc-1c-skills](https://github.com/Nikolay-Shirokov/cc-1c-skills) — независимую коллекцию 44+ Claude Code Skills для разработки на 1С. Инструментарий для создания и модификации обработок, отчётов, форм, макетов и объектов конфигурации.
+
 - Разработчикам [BSL Language Server](https://github.com/1c-syntax/bsl-language-server) за отличный инструмент анализа BSL кода
 
 - Сообществу [1С](https://1c.ru/) за платформу и экосистему

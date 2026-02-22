@@ -326,10 +326,10 @@ MyProject/
 
 ### EDT Integration (optional but recommended)
 
-EDT MCP Server (CodePilot1C plugin) enables AI to read live BSL modules, search code, find references, and validate queries directly in EDT.
+[EDT-MCP](https://github.com/DitriXNew/EDT-MCP) (by DitriX) enables AI to read live BSL modules, search code, find references, and validate queries directly in EDT.
 
 **Setup:**
-1. Install CodePilot1C plugin in 1C:EDT
+1. Install [EDT-MCP plugin](https://github.com/DitriXNew/EDT-MCP) (DitriX) in 1C:EDT
 2. Configure MCP server port in plugin settings (default: 8765)
 3. Add `edt-mcp` to project `.cursor/mcp.json` (see `templates/mcp.json`)
 4. Import project into EDT workspace — name must be Latin, convention: `ProjectName_<version_suffix>` (e.g. `MyProject_25`)
