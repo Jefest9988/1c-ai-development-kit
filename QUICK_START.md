@@ -39,6 +39,12 @@ AI автоматически использует агента `onec-code-revie
 
 ### Бесплатные MCP-серверы
 
+#### Песочница для AI-агентов (рекомендуется)
+
+**Автор:** [Vladimir Akimov (SteelMorgan)](https://github.com/SteelMorgan)
+
+Перед началом работы рекомендуем развернуть [1c-ai-sandbox-client-server](https://github.com/SteelMorgan/1c-ai-sandbox-client-server) — изолированную среду, в которой AI-агент не имеет доступа к вашей хостовой системе. Защищает от случайной потери данных.
+
 #### BSL LSP Bridge (анализ кода)
 
 **Автор:** [Vladimir Akimov (SteelMorgan)](https://github.com/SteelMorgan)

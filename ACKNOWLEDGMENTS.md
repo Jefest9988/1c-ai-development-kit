@@ -69,9 +69,13 @@ RLM-toolkit — один из двух **бесплатных** MCP-сервер
 
 ## 🛠️ Инструменты и технологии
 
-### Vladimir Akimov и mcp-bsl-lsp-bridge
+### Vladimir Akimov (SteelMorgan)
 
-**Огромная благодарность [Vladimir Akimov](https://github.com/SteelMorgan)** за создание [mcp-bsl-lsp-bridge](https://github.com/SteelMorgan/mcp-bsl-lsp-bridge):
+**Огромная благодарность [Vladimir Akimov](https://github.com/SteelMorgan)** за создание двух проектов, которые стали неотъемлемой частью этого инструментария:
+
+#### mcp-bsl-lsp-bridge
+
+[mcp-bsl-lsp-bridge](https://github.com/SteelMorgan/mcp-bsl-lsp-bridge) —
 
 ### Что такое mcp-bsl-lsp-bridge?
 
@@ -108,9 +112,14 @@ mcp-bsl-lsp-bridge — один из двух **бесплатных** MCP-се�
 
 **mcp-bsl-lsp-bridge сделал возможным эффективную работу AI-агентов с BSL кодом!**
 
+#### 1c-ai-sandbox-client-server
+
+[1c-ai-sandbox-client-server](https://github.com/SteelMorgan/1c-ai-sandbox-client-server) — изолированная среда (Dev Container + Hyper-V VM) для безопасной работы AI-агентов с платформой 1С. Проект создан на личном опыте: автор потерял 10 лет семейных фотографий из-за неосторожных действий агента. Теперь агент работает в контейнере — хостовая система полностью защищена.
+
 ### Ссылки
 
-- 🔧 GitHub: [github.com/SteelMorgan/mcp-bsl-lsp-bridge](https://github.com/SteelMorgan/mcp-bsl-lsp-bridge)
+- 🔧 mcp-bsl-lsp-bridge: [github.com/SteelMorgan/mcp-bsl-lsp-bridge](https://github.com/SteelMorgan/mcp-bsl-lsp-bridge)
+- 🔧 1c-ai-sandbox: [github.com/SteelMorgan/1c-ai-sandbox-client-server](https://github.com/SteelMorgan/1c-ai-sandbox-client-server)
 - 👤 Автор: [github.com/SteelMorgan](https://github.com/SteelMorgan)
 
 ---
