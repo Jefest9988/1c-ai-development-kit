@@ -3,20 +3,26 @@
 $replacements = @{
     # IP addresses (http:// variants first, then bare IPs)
     'http://192\.168\.0\.101' = 'http://YOUR_SERVER'
-    'http://192\.168\.0\.105' = 'http://YOUR_SERVER'
-    'http://192\.168\.0\.106' = 'http://YOUR_SERVER'
-    'http://192\.168\.0\.107' = 'http://YOUR_SERVER'
-    'http://192\.168\.0\.108' = 'http://YOUR_SERVER'
+    'http://192\.168\.0\.104' = 'http://YOUR_MCP_SERVER'
+    'http://192\.168\.0\.105' = 'http://YOUR_MCP_SERVER'
+    'http://192\.168\.0\.106' = 'http://YOUR_RLM_SERVER'
+    'http://192\.168\.0\.107' = 'http://YOUR_EDT_SERVER'
+    'http://192\.168\.0\.108' = 'http://YOUR_OLLAMA_SERVER'
     'http://192\.168\.0\.109' = 'http://YOUR_SERVER'
     'http://192\.168\.0\.111' = 'http://YOUR_SERVER'
     '192\.168\.0\.99'  = 'YOUR_PROXMOX_HOST'
+    '192\.168\.0\.100' = 'YOUR_PROXMOX_HOST'
     '192\.168\.0\.101' = 'YOUR_SERVER'
+    '192\.168\.0\.104' = 'YOUR_MCP_SERVER'
     '192\.168\.0\.105' = 'YOUR_MCP_SERVER'
     '192\.168\.0\.106' = 'YOUR_RLM_SERVER'
-    '192\.168\.0\.107' = 'YOUR_SERVER'
+    '192\.168\.0\.107' = 'YOUR_EDT_SERVER'
     '192\.168\.0\.108' = 'YOUR_OLLAMA_SERVER'
-    '192\.168\.0\.109' = 'YOUR_RLM_HOST'
-    '192\.168\.0\.111' = 'YOUR_MCP_SERVER'
+    '192\.168\.0\.109' = 'YOUR_SERVER'
+    '192\.168\.0\.111' = 'YOUR_SERVER'
+
+    # Gitea token
+    '687b5bfe6fd64003a7008e63113a72bc4698ff71' = 'YOUR_GITEA_TOKEN'
 
     # Project-specific MCP servers
     'user-kaf-codemetadata-codesearch'    = 'user-PROJECT-codemetadata-codesearch'
